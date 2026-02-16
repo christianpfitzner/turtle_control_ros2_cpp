@@ -114,7 +114,8 @@ TODO: License declaration
 
 ## Maintainer
 
-- **student** - student@todo.todo
+
+- **Prof. Dr. Christian Pfitzner** - christian.pfitzner@th-nuernberg.de
 
 ## Contributing
 
